@@ -1,0 +1,270 @@
+
+ /* Extra small devices  */
+ /* header part */
+@media (max-width: 575.98px) {
+
+    .navbar-toggler i{
+       color: #fff;
+       font-size: 28px;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #362f2d;
+        /* margin-top: 10px; */
+        padding: 10px 0px;
+    }
+/* banner part  */
+.banner_overlay {
+	padding: 120px 0px;
+	background: rgba(17, 17, 17, .7);
+}
+.banner_text h3 {
+	font-size: 22px;
+}
+.banner_text h1 {
+	font-size: 25px;
+}
+
+/* service part  */
+#service {
+	padding: 40px 0px;
+}
+.service_text p {
+	font-size: 12px;
+}
+/* idea part  */
+.idea_text h3 {
+	font-size: 17px;
+}
+.idea_text p {
+	font-size: 11px;
+}
+
+#idea {
+	padding-top: 40px;
+	
+}
+
+/* perchase part  */
+#pursase{
+    text-align: center;
+}
+
+.purchase_btn a {
+	font-size: 10px;
+}
+.pursase_text h3 {
+	font-size: 15px;
+}
+.pursase_text p {
+	font-size: 15px;
+    line-height: 20px;
+
+}
+.text-right {
+	text-align: center !important;
+	margin-top: 15px;
+}
+
+/* portfolio part  */
+
+#portfolio {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.portfolio_btn{
+    text-align: center;
+}
+
+.portfolio_btn button {
+	padding: 6px 6px;
+	margin: 5px 5px;
+}
+
+/* video part  */
+.video_overlay {
+	padding-top: 110px;
+	padding-bottom: 110px;
+	
+}
+.video_text h3 {
+	font-size: 18px;
+}
+.video_text p {
+	font-size: 14px;
+}
+.video_icon {
+	
+	width: 75px;
+	height: 75px;
+	
+}
+.video_icon i {
+	font-size: 30px;
+}
+/* mobile part  */
+.mobile_text h3 {
+	font-size: 21px;
+}
+
+.mobile_text p {
+	font-size: 10px;
+}
+
+.mbl_bottom_text ul li {
+	font-size: 12px;
+}
+
+/* counter part  */
+.counter_item {
+	margin-top: 50px;
+}
+
+/* blog part start  */
+#blog {
+	padding: 60px 0px;
+}
+/* clients part  */
+.clients-overlay {
+	padding-top: 90px;
+	padding-bottom: 80px;
+	
+}
+.slick-slide img {
+	display: block;
+	margin: 0 auto;
+}
+
+/* footer part  */
+.logo-text p {
+	font-size: 16px;
+}
+
+
+}
+
+ /* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header part  */
+.navbar-toggler i {
+color: #fff;
+font-size: 25px;
+}
+
+.navbar-nav {
+	text-align: center;
+	background: #362f2d;
+	padding: 10px 0px;
+}
+
+/* banner part  */
+
+.banner_overlay {
+	padding-top: 140px;
+	padding-bottom: 120px;
+	
+}
+.banner_text h3 {
+	font-size: 34px;
+}
+.banner_text h1 {
+	font-size: 41px;
+}
+.banner_text p {
+	font-size: 14px;
+}
+.banner_text a {
+	width: 180px;
+	font-size: 11px;
+}
+
+/* idea part  */
+#idea {
+	padding-top: 60px;
+}
+.idea_text h3 {
+	font-size: 26px;
+}
+.idea_text p {
+	font-size: 13px;
+}
+
+/* pursase part  */
+.pursase_text h3 {
+	font-size: 27px;
+}
+.pursase_text p {
+	font-size: 16px;
+}
+.text-right {
+	text-align: center !important;
+	margin-top: 20px;
+}
+.purchase_btn a {
+	font-size: 12px;
+	padding: 18px 25px 15px;
+}
+/* portfolio part  */
+#portfolio {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.portfolio_btn button {
+	padding: 8px 8px;
+}
+
+/* video part  */
+.video_overlay {
+	padding-top: 110px;
+	padding-bottom: 110px
+}
+.video_icon {
+	width: 90px;
+	height: 90px;
+}
+.video_icon i {
+	font-size: 36px;
+}
+.video_text h3 {
+	font-size: 28px;
+}
+.video_text p {
+	font-size: 14px;
+}
+
+/* mobile part  */
+.mobile_text {
+	padding-top: 60px;
+}
+.mobile_text h3 {
+	font-size: 28px;
+}
+.counter_item {
+	margin-top: 40px;
+}
+#counter_part{
+	padding: 55px;
+}
+/* clients part  */
+.clients-overlay {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+} 
+
+ /* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+ /* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* Extra large devices  */
+@media (min-width: 1200px) {
+
+}
